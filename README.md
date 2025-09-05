@@ -48,7 +48,7 @@ This repo depends on:
         https://git.yoctoproject.org/meta-xilinx (official version)
         https://github.com/Xilinx/meta-xilinx (development and amd xilinx release)
 	layers: meta-xilinx-core, meta-xilinx-microblaze, meta-xilinx-bsp,
-            meta-xilinx-standalone, meta-xilinx-vendor.
+            meta-xilinx-standalone, meta-xilinx-vendor, meta-xilinx-standalone-sdt.
 	branch: langdale or amd xilinx release version (e.g. rel-v2023.1)
 
 	URI:
